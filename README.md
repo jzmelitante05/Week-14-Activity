@@ -368,22 +368,6 @@ END
 
 ---
 
-# Screenshots to Include
-
-Take screenshots of the following:
-
-1. Installer File
-2. Setup Wizard
-3. License Agreement
-4. Installation Folder Selection
-5. Installation Progress
-6. Finish Installation Window
-7. Login Screen
-8. Administrator Setup
-9. Main Application Dashboard
-
----
-
 # Learning Outcomes
 
 This laboratory activity helped develop skills in:
